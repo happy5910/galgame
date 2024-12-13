@@ -12,7 +12,7 @@ xacg最新地址,illsion最新地址,I社最新地址,动漫社最新地址,嗷�
 <li><a href="http://www.iisions.com" target="_blank">精品电商选品课程www.iisions.com</a></li>
 <li><a href="http://www.galgameb.com" target="_blank">DY 无人直播www.galgameb.com</a></li>
 <li><a href="http://www.acgsss.org" target="_blank">KS 推广小程序教程www.acgsss.org</a></li>
-<li><a href="http://www.acglll.com" target="_blank">快手 AI 带货www.acglll.com/a></li>
+<li><a href="http://www.acglll.com" target="_blank">快手 AI 带货www.acglll.com</li>
 <li><a href="http://www.acgeee.com" target="_blank">引流技术www.acgeee.com</a></li>
 <h4 class="title">【温馨提示1】 地址ww1.galgamee.com如果登录都没反应显示登录中。查看资源没反应。就把地址的https换成http</h4>
 <h4 class="title">【温馨提示2】 地址ww2.galgameo.com，显示无账户，或无VIP，去登录www1.galgamee.com，因为2个地址换了一下位置</h4>
